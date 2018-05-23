@@ -1,2 +1,2 @@
 # ProteusXmup
-Smalltime Project
+Smalltime Projects
